@@ -15,7 +15,7 @@ Updates
 
 The latest releases of GPGMail can be found on our [official website](https://gpgtools.org/).
 
-For the latest news and updates check our [Twitter](https://twitter.com/gpgtools).
+For the latest news and updates check our [Twitter](https://t.co/gpgtools).
 
 Visit our [support page](https://gpgtools.tenderapp.com) if you have questions or need help setting up your system and using GPGMail.
 
